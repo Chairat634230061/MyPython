@@ -7,7 +7,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 
 #st.header("kairung")
-st.image("./pic/pf.png")
+st.image("./pic/pf.jpg")
 col1, col2, col3 = st.columns(3)
 
 with col1:
